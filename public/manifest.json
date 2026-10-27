@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "QuantCalc - Options & SABR Suite",
+  "short_name": "QuantCalc",
+  "description": "Financial engineering suite for European option portfolios, arbitrage, delta-gamma hedging, and SABR SDE simulation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

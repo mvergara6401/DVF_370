@@ -1,0 +1,6 @@
+{
+  "name": "QuantCalc - Options & SABR Financial Engineering Suite",
+  "description": "Comprehensive financial engineering app for European option portfolio evaluation, synthetic arbitrage strategies, delta/gamma hedging simulations, and Hagan SABR calibration with SDE Monte Carlo simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
